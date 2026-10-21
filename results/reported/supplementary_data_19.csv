@@ -1,0 +1,7 @@
+Outcome,Team,Standalone,Matched presentations,Source scenarios,Team agreements,Standalone agreements,Team agreement difference (pp),Lower 95% CI (pp),Upper 95% CI (pp)
+Within reference range,Jev + LLM,Jev,597,559,487,481,1.0050251256281513,-0.5059021922428286,2.5511290546883156
+Within reference range,Decisions + LLM,Decisions,597,559,489,492,-0.5025125628140756,-1.328903654485046,0.1680672268907557
+ER advice in emergency cases,Jev + LLM,Jev,205,199,185,173,5.853658536585371,2.4509803921568647,9.478672985781984
+ER advice in emergency cases,Decisions + LLM,Decisions,205,199,186,188,-0.975609756097569,-2.955665024630534,0.9661835748792384
+ER advice in non-emergency cases,Jev + LLM,Jev,194,185,2,1,0.5154639175257731,0,1.5706806282722514
+ER advice in non-emergency cases,Decisions + LLM,Decisions,194,185,2,2,0,0,0

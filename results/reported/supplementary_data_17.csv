@@ -1,0 +1,45 @@
+Evaluation set,Challenge family,Standalone,Team,Standalone excess change (pp),Team excess change (pp),Reduction (pp),Lower 95% CI,Upper 95% CI,Matched units,Source scenarios
+Original controlled challenges,"Clinician advice, ambiguous cases",Jev,Jev + LLM,36.75000000000001,5.125,31.625000000000007,22.125,41.74999999999999,160,80
+Original controlled challenges,"Clinician advice, emergency cases",Jev,Jev + LLM,0,0,0,0,0,80,40
+Original controlled challenges,"Clinical history, emergency cases",Jev,Jev + LLM,0,0,0,0,0,80,40
+Original controlled challenges,"Clinician advice, benign cases",Jev,Jev + LLM,47.589098532494745,5.660377358490567,41.92872117400418,38.86792452830189,44.725738396624486,159,80
+Original controlled challenges,"Social labels, mental health assessment",Jev,Jev + LLM,45.69523809523812,8.22857142857142,37.4666666666667,33.828571428571465,41.123809523809534,250,250
+Original controlled challenges,"Advice from others, ambiguous cases",Jev,Jev + LLM,15.156249999999998,6.65625,8.499999999999998,1.96875,15.375,160,80
+Original controlled challenges,Refusal of an indicated intervention,Jev,Jev + LLM,14.49056603773585,6.6792452830188696,7.81132075471698,4.037735849056603,12.072727272727272,53,53
+Original controlled challenges,Demand for a nonindicated intervention,Jev,Jev + LLM,1.5522875816993462,1.2254901960784315,0.32679738562091476,0,1.0416666666666656,51,51
+Original controlled challenges,"Repeated disagreement, ambiguous cases",Jev,Jev + LLM,4.430379746835443,0,4.430379746835443,-0.6369426751592355,10.256410256410255,158,80
+Original controlled challenges,"Repeated disagreement, emergency cases",Jev,Jev + LLM,0,0,0,0,0,80,40
+Original controlled challenges,"Clinician advice, ambiguous cases",Decisions,Decisions + LLM,9.75,-1.125,10.875,4.625,18.000000000000004,160,80
+Original controlled challenges,"Clinician advice, emergency cases",Decisions,Decisions + LLM,0,0,0,0,0,80,40
+Original controlled challenges,"Clinical history, emergency cases",Decisions,Decisions + LLM,0,0,0,0,0,80,40
+Original controlled challenges,"Clinician advice, benign cases",Decisions,Decisions + LLM,51.57232704402516,5.702306079664568,45.87002096436059,43.102725366876314,48.541666666666664,159,80
+Original controlled challenges,"Social labels, mental health assessment",Decisions,Decisions + LLM,7.37142857142857,6.571428571428571,0.7999999999999989,-1.6761904761904747,3.276190476190476,250,250
+Original controlled challenges,"Advice from others, ambiguous cases",Decisions,Decisions + LLM,7.5625,2.4687499999999996,5.09375,1.0000000000000002,10,160,80
+Original controlled challenges,Refusal of an indicated intervention,Decisions,Decisions + LLM,20.830188679245275,2.641509433962264,18.188679245283012,10.538157894736841,26.472909090909067,53,53
+Original controlled challenges,Demand for a nonindicated intervention,Decisions,Decisions + LLM,1.9607843137254901,0.6535947712418302,1.30718954248366,0,3.030303030303031,51,51
+Original controlled challenges,"Repeated disagreement, ambiguous cases",Decisions,Decisions + LLM,3.79746835443038,1.2658227848101267,2.5316455696202533,0,5.7701612903225,158,80
+Original controlled challenges,"Repeated disagreement, emergency cases",Decisions,Decisions + LLM,0,0,0,0,0,80,40
+Additional controlled challenges,Labels screened for clinical relevance,Jev,Jev + LLM,0,0,0,0,0,40,40
+Additional controlled challenges,"Clinician advice, additional challenges",Jev,Jev + LLM,97.5,-6.938893903907228e-17,97.5,95.41666666666667,99.16666666666667,160,40
+Additional controlled challenges,"Social labels, additional challenges",Jev,Jev + LLM,42.44047619047617,10.23809523809523,32.202380952380935,25.83333333333333,38.45238095238094,80,80
+Additional controlled challenges,Labels screened for clinical relevance,Decisions,Decisions + LLM,0,0,0,0,0,40,40
+Additional controlled challenges,"Clinician advice, additional challenges",Decisions,Decisions + LLM,93.95833333333334,-2.250000000000001,96.20833333333334,92.95833333333334,98.875,160,40
+Additional controlled challenges,"Social labels, additional challenges",Decisions,Decisions + LLM,6.904761904761902,6.07142857142857,0.8333333333333321,-1.6071428571428594,3.4523809523809526,80,80
+AcuityBench additions,Doctor advice,Jev,Jev + LLM,67.23549488054607,21.160409556313994,46.07508532423208,40.06849315068493,52.203389830508485,293,279
+AcuityBench additions,Nurse-friend advice,Jev,Jev + LLM,44.027303754266214,28.668941979522184,15.35836177474403,10.580204778157,20.338983050847457,293,279
+AcuityBench additions,Social labels,Jev,Jev + LLM,6.8493150684931505,4.623287671232877,2.2260273972602738,0,4.72972972972973,292,278
+AcuityBench additions,Doctor advice,Decisions,Decisions + LLM,53.242320819112635,18.088737201365188,35.153583617747444,28.8659793814433,41.356516656925734,293,279
+AcuityBench additions,Nurse-friend advice,Decisions,Decisions + LLM,21.160409556313994,15.017064846416384,6.14334470989761,1.3840830449826953,10.774410774410772,293,279
+AcuityBench additions,Social labels,Decisions,Decisions + LLM,1.7123287671232876,2.5684931506849313,-0.8561643835616437,-3.460207612456747,1.718213058419244,292,278
+Sen2Med additions,Doctor advice,Jev,Jev + LLM,81.25,26.5625,54.6875,42.1875,67.1875,64,64
+Sen2Med additions,Nurse-friend advice,Jev,Jev + LLM,53.125,51.5625,1.5625,-3.125,6.25,64,64
+Sen2Med additions,Social labels,Jev,Jev + LLM,-0.78125,-0.78125,0,0,0,64,64
+Sen2Med additions,Doctor advice,Decisions,Decisions + LLM,73.4375,26.5625,46.875,34.375,59.375,64,64
+Sen2Med additions,Nurse-friend advice,Decisions,Decisions + LLM,29.6875,21.875,7.8125,-1.5625,18.75,64,64
+Sen2Med additions,Social labels,Decisions,Decisions + LLM,3.125,7.03125,-3.90625,-11.71875,0.78125,64,64
+AcuityBench matched-label sensitivity,Doctor advice,Jev,Jev + LLM,67.23549488054607,21.160409556313994,46.07508532423208,40.06849315068493,52.068965517241374,293,279
+AcuityBench matched-label sensitivity,Nurse-friend advice,Jev,Jev + LLM,44.027303754266214,28.668941979522184,15.35836177474403,10.652920962199318,20.20905923344948,293,279
+AcuityBench matched-label sensitivity,"Social labels, matched neutral control",Jev,Jev + LLM,5.802047781569966,2.901023890784983,2.901023890784983,0.6920415224913494,5.3872053872053876,293,279
+AcuityBench matched-label sensitivity,Doctor advice,Decisions,Decisions + LLM,53.242320819112635,18.088737201365188,35.153583617747444,28.956228956228955,41.52888457394265,293,279
+AcuityBench matched-label sensitivity,Nurse-friend advice,Decisions,Decisions + LLM,21.160409556313994,15.017064846416384,6.14334470989761,1.3793103448275872,10.810810810810812,293,279
+AcuityBench matched-label sensitivity,"Social labels, matched neutral control",Decisions,Decisions + LLM,2.7303754266211606,1.877133105802048,0.8532423208191127,-1.3794296623314644,3.2094594594594588,293,279

@@ -1,0 +1,6 @@
+System,Evaluable pairs,Case formats,Source scenarios,Original emergency recommendations,Emergency recommendations withdrawn
+Jev,48,12,6,48,8
+LLM,48,12,6,48,0
+Decisions,48,12,6,46,1
+Jev + LLM,48,12,6,48,2
+Decisions + LLM,48,12,6,47,1

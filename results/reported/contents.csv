@@ -1,0 +1,39 @@
+Supplementary data,Decision-only medical AI: early evidence and pairing with language models
+Data 1,Decision change and reference-related outcomes
+Data 2,Reference eligibility and exclusions
+Data 3,Decisions-team paired differences
+Data 4,Original-to-altered decision transitions
+Data 5,Team corrections and newly introduced disagreements
+Data 6,Original-case agreement in matched comparisons
+Data 7,Original-case agreement in all available records
+Data 8,Sensitivity analyses
+Data 9,Transitions after refusal of an indicated intervention
+Data 10,Team effects after refusal of an indicated intervention
+Data 11,Loss of emergency advice
+Data 12,Outcome definitions
+Data 13,Influence thresholds
+Data 14,Study inventory
+Data 15,Average sensitivity by test set and system
+Data 16,Paired average reductions
+Data 17,Paired reductions by challenge family
+Data 18,Omission of each challenge family
+Data 19,Paired AcuityBench reference-agreement differences
+Units,Percentages are on a 0-100 scale. pp denotes percentage points.
+Missing values,Blank values mean not applicable or an interval that cannot be estimated. Zero is an observed zero. Single-source endpoints have no confidence interval.
+Systems,LLM denotes GPT-6 Luna. Jev and Decisions are decision models. Each team pairs that decision model with the LLM.
+Source scenarios,"Repeated formats of one scenario are grouped together. Presentations, matched units and source scenarios are distinct denominators."
+Uncertainty,"Data 1 and 3 use 10,000 source-scenario bootstrap samples. Data 15-18 use 20,000 paired source-scenario samples. Intervals are exploratory and unadjusted for multiplicity."
+Decision change,Raw change compares altered and original answers. Neutral change compares neutral and original answers. Excess change is raw minus neutral change. Outcomes without neutral controls report raw change only.
+Reference exclusions,Data 2 lists endpoints without evaluable reference pairs. Missing-output and missing-reference counts can overlap. Aggregate sensitivity summaries use component conditions for directional analyses.
+Decision transitions,New disagreement means original agreement followed by altered-case disagreement. Correction is the reverse. Both agree and both disagree describe the remaining pairs.
+Team comparisons,Corrected and introduced disagreements compare team and standalone answers on the same altered input. New disagreement prevented or introduced requires both original answers to agree. A blocked correction is a standalone correction absent from the team. These transition counts can overlap.
+Difference direction,"Data 3 states its comparator. Data 5, 8, 10 and 19 report team minus standalone. Positive agreement differences favor the team; positive new-disagreement differences indicate more disagreements."
+Reduction direction,Data 16-18 report standalone minus team sensitivity. Positive reductions indicate lower sensitivity with pairing.
+Analysis sets,Original and additional controlled challenges share source material and are analyzed separately. AcuityBench primary and ambiguous-reference populations remain separate. Sen2Med and HELPMed used the unchanged workflow.
+Data 3 scope,Only Decisions + LLM minus Decisions and Decisions + LLM minus Jev + LLM are reported here. Data 16-18 include both teams against their respective standalone models.
+Data 8 subsets,Subset names identify the original-agreement definition and reference restriction. Rows with no evaluable pairs are omitted; endpoint exclusions are retained in Data 2.
+Refusal comparisons,"Data 9-10 include 279 variants from 57 source cases. The complete multi-variant sensitivity analysis includes 53 units. The source reference concerns intervention indication, not consent to proceed after refusal."
+Thresholds,"Data 13 retains the original decision level and uses influence strictly greater than the cutoff. Triage levels are 0,monitor; 1,review within weeks; 2,review within 24-48 hours; 3,emergency care now. Binary tasks use 0 for no (not indicated) and 1 for yes (recommended)."
+Family weighting,Data 15-18 weight challenge families equally within each evaluation set. These weights do not estimate clinical prevalence. Omission analyses remove one family at a time.
+Scientific interpretation,Decision changes and lower sensitivity do not establish clinical appropriateness. Original-case reference agreement and altered-case decision changes answer different questions.
+Sources,Study analyses described in the Supplementary Methods. Source references: Sen2Med (arXiv:2609.38600); HELPMed (doi:10.1038/s41591-025-04074-y); AcuityBench (arXiv:2605.11398); HealthBench (arXiv:2505.08775); Semigran et al. (doi:10.1136/bmj.h3480); Ramaswamy et al. (doi:10.1038/s41591-026-04297-7); Levine et al. (doi:10.1016/S2589-7500(24)00097-9).

@@ -1,0 +1,116 @@
+Group,Reference,System,Matched presentations,Source scenarios,Reference agreements,Agreement (%)
+Controlled clinical scenarios: Own-doctor advice in emergency messages: Emergency care indicated,Reference specified during scenario construction,Jev,80,40,80,100
+Controlled clinical scenarios: Own-doctor advice in emergency messages: Emergency care indicated,Reference specified during scenario construction,LLM,80,40,80,100
+Controlled clinical scenarios: Own-doctor advice in emergency messages: Emergency care indicated,Reference specified during scenario construction,Decisions,80,40,80,100
+Controlled clinical scenarios: Own-doctor advice in emergency messages: Emergency care indicated,Reference specified during scenario construction,Jev + LLM,80,40,80,100
+Controlled clinical scenarios: Own-doctor advice in emergency messages: Emergency care indicated,Reference specified during scenario construction,Decisions + LLM,80,40,80,100
+Controlled clinical scenarios: Own-doctor advice in emergency messages: Triage urgency,Reference specified during scenario construction,Jev,80,40,80,100
+Controlled clinical scenarios: Own-doctor advice in emergency messages: Triage urgency,Reference specified during scenario construction,LLM,80,40,80,100
+Controlled clinical scenarios: Own-doctor advice in emergency messages: Triage urgency,Reference specified during scenario construction,Decisions,80,40,80,100
+Controlled clinical scenarios: Own-doctor advice in emergency messages: Triage urgency,Reference specified during scenario construction,Jev + LLM,80,40,80,100
+Controlled clinical scenarios: Own-doctor advice in emergency messages: Triage urgency,Reference specified during scenario construction,Decisions + LLM,80,40,80,100
+Controlled clinical scenarios: Prior history in emergency messages: Emergency care indicated,Reference specified during scenario construction,Jev,80,40,80,100
+Controlled clinical scenarios: Prior history in emergency messages: Emergency care indicated,Reference specified during scenario construction,LLM,80,40,80,100
+Controlled clinical scenarios: Prior history in emergency messages: Emergency care indicated,Reference specified during scenario construction,Decisions,80,40,80,100
+Controlled clinical scenarios: Prior history in emergency messages: Emergency care indicated,Reference specified during scenario construction,Jev + LLM,80,40,80,100
+Controlled clinical scenarios: Prior history in emergency messages: Emergency care indicated,Reference specified during scenario construction,Decisions + LLM,80,40,80,100
+Controlled clinical scenarios: Clinician advice in benign messages: Emergency care indicated,Reference specified during scenario construction,Jev,157,80,157,100
+Controlled clinical scenarios: Clinician advice in benign messages: Emergency care indicated,Reference specified during scenario construction,LLM,157,80,157,100
+Controlled clinical scenarios: Clinician advice in benign messages: Emergency care indicated,Reference specified during scenario construction,Decisions,157,80,157,100
+Controlled clinical scenarios: Clinician advice in benign messages: Emergency care indicated,Reference specified during scenario construction,Jev + LLM,157,80,157,100
+Controlled clinical scenarios: Clinician advice in benign messages: Emergency care indicated,Reference specified during scenario construction,Decisions + LLM,157,80,157,100
+Controlled clinical scenarios: Clinician advice in benign messages: Triage urgency,Reference specified during scenario construction,Jev,160,80,147,91.875
+Controlled clinical scenarios: Clinician advice in benign messages: Triage urgency,Reference specified during scenario construction,LLM,160,80,140,87.5
+Controlled clinical scenarios: Clinician advice in benign messages: Triage urgency,Reference specified during scenario construction,Decisions,160,80,132,82.5
+Controlled clinical scenarios: Clinician advice in benign messages: Triage urgency,Reference specified during scenario construction,Jev + LLM,160,80,147,91.875
+Controlled clinical scenarios: Clinician advice in benign messages: Triage urgency,Reference specified during scenario construction,Decisions + LLM,160,80,132,82.5
+Controlled clinical scenarios: Refusal of indicated intervention: Intervention recommended now,Reference specified during scenario construction,Jev,57,57,50,87.71929824561404
+Controlled clinical scenarios: Refusal of indicated intervention: Intervention recommended now,Reference specified during scenario construction,LLM,57,57,57,100
+Controlled clinical scenarios: Refusal of indicated intervention: Intervention recommended now,Reference specified during scenario construction,Decisions,57,57,57,100
+Controlled clinical scenarios: Refusal of indicated intervention: Intervention recommended now,Reference specified during scenario construction,Jev + LLM,57,57,50,87.71929824561404
+Controlled clinical scenarios: Refusal of indicated intervention: Intervention recommended now,Reference specified during scenario construction,Decisions + LLM,57,57,56,98.24561403508773
+Controlled clinical scenarios: Request for unneeded intervention: Intervention recommended now,Reference specified during scenario construction,Jev,58,58,56,96.55172413793103
+Controlled clinical scenarios: Request for unneeded intervention: Intervention recommended now,Reference specified during scenario construction,LLM,58,58,52,89.65517241379311
+Controlled clinical scenarios: Request for unneeded intervention: Intervention recommended now,Reference specified during scenario construction,Decisions,58,58,51,87.93103448275862
+Controlled clinical scenarios: Request for unneeded intervention: Intervention recommended now,Reference specified during scenario construction,Jev + LLM,58,58,55,94.82758620689656
+Controlled clinical scenarios: Request for unneeded intervention: Intervention recommended now,Reference specified during scenario construction,Decisions + LLM,58,58,50,86.20689655172414
+Controlled clinical scenarios: Patient disagreement in emergency messages: Triage urgency,Reference specified during scenario construction,Jev,80,40,80,100
+Controlled clinical scenarios: Patient disagreement in emergency messages: Triage urgency,Reference specified during scenario construction,LLM,80,40,80,100
+Controlled clinical scenarios: Patient disagreement in emergency messages: Triage urgency,Reference specified during scenario construction,Decisions,80,40,80,100
+Controlled clinical scenarios: Patient disagreement in emergency messages: Triage urgency,Reference specified during scenario construction,Jev + LLM,80,40,80,100
+Controlled clinical scenarios: Patient disagreement in emergency messages: Triage urgency,Reference specified during scenario construction,Decisions + LLM,80,40,80,100
+Additional clinical decision tasks: original cases,Reference agreed by model raters,Jev,40,40,40,100
+Additional clinical decision tasks: original cases,Reference agreed by model raters,LLM,40,40,40,100
+Additional clinical decision tasks: original cases,Reference agreed by model raters,Decisions,40,40,40,100
+Additional clinical decision tasks: original cases,Reference agreed by model raters,Jev + LLM,40,40,40,100
+Additional clinical decision tasks: original cases,Reference agreed by model raters,Decisions + LLM,40,40,40,100
+Controlled clinical scenarios: Emergency and lookalike presentations: Emergency care indicated,Reference agreed by model raters,Jev,293,150,291,99.31740614334471
+Controlled clinical scenarios: Emergency and lookalike presentations: Emergency care indicated,Reference agreed by model raters,LLM,293,150,286,97.61092150170649
+Controlled clinical scenarios: Emergency and lookalike presentations: Emergency care indicated,Reference agreed by model raters,Decisions,293,150,291,99.31740614334471
+Controlled clinical scenarios: Emergency and lookalike presentations: Emergency care indicated,Reference agreed by model raters,Jev + LLM,293,150,290,98.97610921501706
+Controlled clinical scenarios: Emergency and lookalike presentations: Emergency care indicated,Reference agreed by model raters,Decisions + LLM,293,150,291,99.31740614334471
+Controlled clinical scenarios: Emergency and lookalike presentations: Triage urgency,Reference agreed by model raters,Jev,297,150,259,87.20538720538721
+Controlled clinical scenarios: Emergency and lookalike presentations: Triage urgency,Reference agreed by model raters,LLM,297,150,248,83.5016835016835
+Controlled clinical scenarios: Emergency and lookalike presentations: Triage urgency,Reference agreed by model raters,Decisions,297,150,252,84.84848484848484
+Controlled clinical scenarios: Emergency and lookalike presentations: Triage urgency,Reference agreed by model raters,Jev + LLM,297,150,263,88.55218855218855
+Controlled clinical scenarios: Emergency and lookalike presentations: Triage urgency,Reference agreed by model raters,Decisions + LLM,297,150,249,83.83838383838383
+Controlled clinical scenarios: Hidden-sign emergencies: Emergency care indicated,Reference agreed by model raters,Jev,41,41,40,97.5609756097561
+Controlled clinical scenarios: Hidden-sign emergencies: Emergency care indicated,Reference agreed by model raters,LLM,41,41,41,100
+Controlled clinical scenarios: Hidden-sign emergencies: Emergency care indicated,Reference agreed by model raters,Decisions,41,41,41,100
+Controlled clinical scenarios: Hidden-sign emergencies: Emergency care indicated,Reference agreed by model raters,Jev + LLM,41,41,41,100
+Controlled clinical scenarios: Hidden-sign emergencies: Emergency care indicated,Reference agreed by model raters,Decisions + LLM,41,41,41,100
+Controlled clinical scenarios: Hidden-sign emergencies: Triage urgency,Reference agreed by model raters,Jev,50,50,46,92
+Controlled clinical scenarios: Hidden-sign emergencies: Triage urgency,Reference agreed by model raters,LLM,50,50,50,100
+Controlled clinical scenarios: Hidden-sign emergencies: Triage urgency,Reference agreed by model raters,Decisions,50,50,50,100
+Controlled clinical scenarios: Hidden-sign emergencies: Triage urgency,Reference agreed by model raters,Jev + LLM,50,50,49,98
+Controlled clinical scenarios: Hidden-sign emergencies: Triage urgency,Reference agreed by model raters,Decisions + LLM,50,50,50,100
+Controlled clinical scenarios: Advice-control presentations: Emergency care indicated,Reference agreed by model raters,Jev,50,50,50,100
+Controlled clinical scenarios: Advice-control presentations: Emergency care indicated,Reference agreed by model raters,LLM,50,50,50,100
+Controlled clinical scenarios: Advice-control presentations: Emergency care indicated,Reference agreed by model raters,Decisions,50,50,50,100
+Controlled clinical scenarios: Advice-control presentations: Emergency care indicated,Reference agreed by model raters,Jev + LLM,50,50,50,100
+Controlled clinical scenarios: Advice-control presentations: Emergency care indicated,Reference agreed by model raters,Decisions + LLM,50,50,50,100
+Controlled clinical scenarios: Advice-control presentations: Triage urgency,Reference agreed by model raters,Jev,50,50,50,100
+Controlled clinical scenarios: Advice-control presentations: Triage urgency,Reference agreed by model raters,LLM,50,50,50,100
+Controlled clinical scenarios: Advice-control presentations: Triage urgency,Reference agreed by model raters,Decisions,50,50,50,100
+Controlled clinical scenarios: Advice-control presentations: Triage urgency,Reference agreed by model raters,Jev + LLM,50,50,50,100
+Controlled clinical scenarios: Advice-control presentations: Triage urgency,Reference agreed by model raters,Decisions + LLM,50,50,50,100
+AcuityBench: Ambiguous reference set,AcuityBench source reference,Jev,190,190,112,58.94736842105263
+AcuityBench: Ambiguous reference set,AcuityBench source reference,LLM,190,190,115,60.526315789473685
+AcuityBench: Ambiguous reference set,AcuityBench source reference,Decisions,190,190,120,63.1578947368421
+AcuityBench: Ambiguous reference set,AcuityBench source reference,Jev + LLM,190,190,109,57.36842105263158
+AcuityBench: Ambiguous reference set,AcuityBench source reference,Decisions + LLM,190,190,118,62.10526315789474
+AcuityBench: Primary reference set,AcuityBench source reference,Jev,597,559,481,80.56951423785594
+AcuityBench: Primary reference set,AcuityBench source reference,LLM,597,559,484,81.07202680067002
+AcuityBench: Primary reference set,AcuityBench source reference,Decisions,597,559,492,82.41206030150754
+AcuityBench: Primary reference set,AcuityBench source reference,Jev + LLM,597,559,487,81.57453936348409
+AcuityBench: Primary reference set,AcuityBench source reference,Decisions + LLM,597,559,489,81.90954773869346
+HELPMed: original cases,Source scenario emergency status,Jev,10,10,9,90
+HELPMed: original cases,Source scenario emergency status,LLM,10,10,9,90
+HELPMed: original cases,Source scenario emergency status,Decisions,10,10,10,100
+HELPMed: original cases,Source scenario emergency status,Jev + LLM,10,10,9,90
+HELPMed: original cases,Source scenario emergency status,Decisions + LLM,10,10,9,90
+AcuityBench additions: original ambiguous,AcuityBench source reference,Jev,84,84,51,60.714285714285715
+AcuityBench additions: original ambiguous,AcuityBench source reference,LLM,84,84,47,55.95238095238095
+AcuityBench additions: original ambiguous,AcuityBench source reference,Decisions,84,84,48,57.142857142857146
+AcuityBench additions: original ambiguous,AcuityBench source reference,Jev + LLM,84,84,48,57.142857142857146
+AcuityBench additions: original ambiguous,AcuityBench source reference,Decisions + LLM,84,84,48,57.142857142857146
+AcuityBench additions: original primary,AcuityBench source reference,Jev,213,199,173,81.22065727699531
+AcuityBench additions: original primary,AcuityBench source reference,LLM,213,199,172,80.75117370892019
+AcuityBench additions: original primary,AcuityBench source reference,Decisions,213,199,170,79.81220657276995
+AcuityBench additions: original primary,AcuityBench source reference,Jev + LLM,213,199,174,81.69014084507042
+AcuityBench additions: original primary,AcuityBench source reference,Decisions + LLM,213,199,169,79.34272300469483
+Levine,Published source reference,Jev,48,48,33,68.75
+Levine,Published source reference,LLM,48,48,33,68.75
+Levine,Published source reference,Decisions,48,48,30,62.5
+Levine,Published source reference,Jev + LLM,48,48,32,66.66666666666667
+Levine,Published source reference,Decisions + LLM,48,48,29,60.416666666666664
+Ramaswamy: original cases,Clinician-defined source reference,Jev,299,39,264,88.29431438127091
+Ramaswamy: original cases,Clinician-defined source reference,LLM,299,39,261,87.29096989966555
+Ramaswamy: original cases,Clinician-defined source reference,Decisions,299,39,261,87.29096989966555
+Ramaswamy: original cases,Clinician-defined source reference,Jev + LLM,299,39,257,85.95317725752508
+Ramaswamy: original cases,Clinician-defined source reference,Decisions + LLM,299,39,260,86.95652173913044
+Sen2Med: original cases,Any-care reference for original only,Jev,64,64,51,79.6875
+Sen2Med: original cases,Any-care reference for original only,LLM,64,64,53,82.8125
+Sen2Med: original cases,Any-care reference for original only,Decisions,64,64,52,81.25
+Sen2Med: original cases,Any-care reference for original only,Jev + LLM,64,64,50,78.125
+Sen2Med: original cases,Any-care reference for original only,Decisions + LLM,64,64,52,81.25

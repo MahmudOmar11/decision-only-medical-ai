@@ -1,0 +1,6 @@
+System,Planned exact pairs,Available exact pairs,Source scenarios,New disagreement,Correction,Both agree,Both disagree,Reference,Clinical relevance
+Jev,300,279,57,41,0,204,34,Scenario reference agreed by two model raters,Preference or refusal
+LLM,300,279,57,30,0,249,0,Scenario reference agreed by two model raters,Preference or refusal
+Decisions,300,279,57,68,0,211,0,Scenario reference agreed by two model raters,Preference or refusal
+Jev + LLM,300,279,57,19,0,226,34,Scenario reference agreed by two model raters,Preference or refusal
+Decisions + LLM,300,279,57,6,2,268,3,Scenario reference agreed by two model raters,Preference or refusal

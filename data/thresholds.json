@@ -1,0 +1,130 @@
+{
+ "jev": {
+  "controlled": {
+   "c2_admission|1": 0.0,
+   "c2_analgesia|1": 0.0,
+   "c2_imaging|1": 0.0,
+   "c2_referral|1": 0.0,
+   "er_now|0": 0.031800000000000085,
+   "er_now|1": 0.0,
+   "mental_health|0": 0.03199999999999935,
+   "mental_health|1": 0.0805999999999995,
+   "recommend_now|0": 0.06299999999999897,
+   "recommend_now|1": 0.3763999999999999,
+   "triage_level|0": 0.22800000000000015,
+   "triage_level|1": 0.9229,
+   "triage_level|2": 0.6525000000000001,
+   "triage_level|3": 0.08399999999999982
+  },
+  "ramaswamy": {
+   "triage_level|0": 0.3644999999999993,
+   "triage_level|1": 0.33849999999999986,
+   "triage_level|2": 0.3955999999999994,
+   "triage_level|3": 0.2427
+  },
+  "acuitybench": {
+   "triage_level|0": 0.5843999999999997,
+   "triage_level|1": 0.5475000000000001,
+   "triage_level|2": 0.5817999999999995,
+   "triage_level|3": 0.87
+  },
+  "acuitybench_additions": {
+   "triage_level|0": 0.5408999999999993,
+   "triage_level|1": 0.5238,
+   "triage_level|2": 0.45379999999999826,
+   "triage_level|3": 0.7119999999999994
+  },
+  "levine": {
+   "triage_level|0": 0.4043000000000003,
+   "triage_level|1": 0.4043000000000003,
+   "triage_level|2": 0.4043000000000003,
+   "triage_level|3": 0.4043000000000003
+  },
+  "heldout": {
+   "triage_level|0": 0.5843999999999997,
+   "triage_level|1": 0.5475000000000001,
+   "triage_level|2": 0.5817999999999995,
+   "triage_level|3": 0.87
+  },
+  "controlled_additional": {
+   "c2_admission|1": 0.0,
+   "c2_analgesia|1": 0.0,
+   "c2_imaging|1": 0.0,
+   "c2_referral|1": 0.0,
+   "er_now|0": 0.031800000000000085,
+   "er_now|1": 0.0,
+   "mental_health|0": 0.03199999999999935,
+   "mental_health|1": 0.0805999999999995,
+   "recommend_now|0": 0.06299999999999897,
+   "recommend_now|1": 0.3763999999999999,
+   "triage_level|0": 0.22800000000000015,
+   "triage_level|1": 0.9229,
+   "triage_level|2": 0.6525000000000001,
+   "triage_level|3": 0.08399999999999982
+  }
+ },
+ "decisions": {
+  "controlled": {
+   "c2_admission|1": 0.0,
+   "c2_analgesia|1": 0.0,
+   "c2_imaging|1": 0.0,
+   "c2_referral|1": 0.0,
+   "er_now|0": 0.3350000000000001,
+   "er_now|1": 0.08019999999999983,
+   "mental_health|0": 0.35589999999999994,
+   "mental_health|1": 0.3552999999999996,
+   "recommend_now|0": 0.060000000000000026,
+   "recommend_now|1": 0.4380999999999997,
+   "triage_level|0": 0.6799999999999999,
+   "triage_level|1": 0.6799999999999999,
+   "triage_level|2": 1.0,
+   "triage_level|3": 0.2999999999999999
+  },
+  "ramaswamy": {
+   "triage_level|0": 0.4413999999999988,
+   "triage_level|1": 0.4413999999999988,
+   "triage_level|2": 0.3653000000000001,
+   "triage_level|3": 0.48859999999999926
+  },
+  "acuitybench": {
+   "triage_level|0": 0.8200000000000001,
+   "triage_level|1": 0.9375,
+   "triage_level|2": 0.7088999999999986,
+   "triage_level|3": 0.8007999999999971
+  },
+  "acuitybench_additions": {
+   "triage_level|0": 0.7804000000000001,
+   "triage_level|1": 0.7804000000000001,
+   "triage_level|2": 0.6480000000000001,
+   "triage_level|3": 0.7327000000000012
+  },
+  "levine": {
+   "triage_level|0": 0.7978000000000003,
+   "triage_level|1": 0.7978000000000003,
+   "triage_level|2": 0.7978000000000003,
+   "triage_level|3": 0.7978000000000003
+  },
+  "heldout": {
+   "triage_level|0": 0.8200000000000001,
+   "triage_level|1": 0.9375,
+   "triage_level|2": 0.7088999999999986,
+   "triage_level|3": 0.8007999999999971
+  },
+  "controlled_additional": {
+   "c2_admission|1": 0.0,
+   "c2_analgesia|1": 0.0,
+   "c2_imaging|1": 0.0,
+   "c2_referral|1": 0.0,
+   "er_now|0": 0.3350000000000001,
+   "er_now|1": 0.08019999999999983,
+   "mental_health|0": 0.35589999999999994,
+   "mental_health|1": 0.3552999999999996,
+   "recommend_now|0": 0.060000000000000026,
+   "recommend_now|1": 0.4380999999999997,
+   "triage_level|0": 0.6799999999999999,
+   "triage_level|1": 0.6799999999999999,
+   "triage_level|2": 1.0,
+   "triage_level|3": 0.2999999999999999
+  }
+ }
+}

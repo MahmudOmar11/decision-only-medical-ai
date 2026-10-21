@@ -1,0 +1,6 @@
+results/analysis/
+results/figures/
+runs/
+__pycache__/
+*.pyc
+.DS_Store

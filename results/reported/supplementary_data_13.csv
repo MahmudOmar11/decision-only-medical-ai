@@ -1,0 +1,69 @@
+Team,Cohort,Question,Original decision level,Threshold,Calibration source,Comparison rule
+Decisions + LLM,Controlled clinical scenarios,Hospital admission,1,0,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Hospital admission,1,0,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Analgesia,1,0,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Analgesia,1,0,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Imaging,1,0,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Imaging,1,0,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Specialist assessment,1,0,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Specialist assessment,1,0,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Emergency care indicated,0,0.335,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Emergency care indicated,0,0.0318,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Emergency care indicated,1,0.0802,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Emergency care indicated,1,0,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Mental health assessment,0,0.3559,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Mental health assessment,0,0.032,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Mental health assessment,1,0.3553,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Mental health assessment,1,0.0806,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Intervention recommended now,0,0.06,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Intervention recommended now,0,0.063,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Intervention recommended now,1,0.4381,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Intervention recommended now,1,0.3764,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Triage urgency,0,0.68,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Triage urgency,0,0.228,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Triage urgency,1,0.68,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Triage urgency,1,0.9229,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Triage urgency,2,1,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Triage urgency,2,0.6525,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Controlled clinical scenarios,Triage urgency,3,0.3,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Controlled clinical scenarios,Triage urgency,3,0.084,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,AcuityBench,Triage urgency,0,0.82,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,AcuityBench,Triage urgency,0,0.5844,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,AcuityBench,Triage urgency,1,0.9375,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,AcuityBench,Triage urgency,1,0.5475,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,AcuityBench,Triage urgency,2,0.7089,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,AcuityBench,Triage urgency,2,0.5818,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,AcuityBench,Triage urgency,3,0.8008,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,AcuityBench,Triage urgency,3,0.87,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,AcuityBench additions,Triage urgency,0,0.7804,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,AcuityBench additions,Triage urgency,0,0.5409,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,AcuityBench additions,Triage urgency,1,0.7804,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,AcuityBench additions,Triage urgency,1,0.5238,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,AcuityBench additions,Triage urgency,2,0.648,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,AcuityBench additions,Triage urgency,2,0.4538,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,AcuityBench additions,Triage urgency,3,0.7327,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,AcuityBench additions,Triage urgency,3,0.712,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Levine,Triage urgency,0,0.7978,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Levine,Triage urgency,0,0.4043,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Levine,Triage urgency,1,0.7978,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Levine,Triage urgency,1,0.4043,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Levine,Triage urgency,2,0.7978,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Levine,Triage urgency,2,0.4043,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Levine,Triage urgency,3,0.7978,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Levine,Triage urgency,3,0.4043,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Ramaswamy,Triage urgency,0,0.4414,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Ramaswamy,Triage urgency,0,0.3645,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Ramaswamy,Triage urgency,1,0.4414,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Ramaswamy,Triage urgency,1,0.3385,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Ramaswamy,Triage urgency,2,0.3653,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Ramaswamy,Triage urgency,2,0.3956,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,Ramaswamy,Triage urgency,3,0.4886,Estimated in this cohort,influence strictly greater than threshold
+Jev + LLM,Ramaswamy,Triage urgency,3,0.2427,Estimated in this cohort,influence strictly greater than threshold
+Decisions + LLM,External evaluation of fixed workflow,Triage urgency,0,0.82,AcuityBench calibration,influence strictly greater than threshold
+Jev + LLM,External evaluation of fixed workflow,Triage urgency,0,0.5844,AcuityBench calibration; External fixed workflow,influence strictly greater than threshold
+Decisions + LLM,External evaluation of fixed workflow,Triage urgency,1,0.9375,AcuityBench calibration,influence strictly greater than threshold
+Jev + LLM,External evaluation of fixed workflow,Triage urgency,1,0.5475,AcuityBench calibration; External fixed workflow,influence strictly greater than threshold
+Decisions + LLM,External evaluation of fixed workflow,Triage urgency,2,0.7089,AcuityBench calibration,influence strictly greater than threshold
+Jev + LLM,External evaluation of fixed workflow,Triage urgency,2,0.5818,AcuityBench calibration; External fixed workflow,influence strictly greater than threshold
+Decisions + LLM,External evaluation of fixed workflow,Triage urgency,3,0.8008,AcuityBench calibration,influence strictly greater than threshold
+Jev + LLM,External evaluation of fixed workflow,Triage urgency,3,0.87,AcuityBench calibration; External fixed workflow,influence strictly greater than threshold

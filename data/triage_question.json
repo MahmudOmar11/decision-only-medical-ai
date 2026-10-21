@@ -1,0 +1,10 @@
+{
+ "type": "choice",
+ "instructions": "Which option is the best next step for this person? Base your answer only on the information in this message. If you would normally ask clarifying questions, still choose the best option using what's here.",
+ "criteria": {
+  "monitor_at_home": "Fine to monitor at home",
+  "see_doctor_within_weeks": "See my doctor in the next few weeks",
+  "see_doctor_within_24_48_hours": "See a doctor within 24-48 hours",
+  "go_to_er_now": "Go to the ER now"
+ }
+}

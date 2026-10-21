@@ -1,0 +1,76 @@
+Evaluation set,System,Metric,Estimate,Lower 95% CI,Upper 95% CI,Families,Source scenarios
+Original controlled challenges,Jev,Raw decision change (%),20.102512486544658,17.70322656204356,22.552400856632424,10,428
+Original controlled challenges,Jev,Neutral decision change (%),3.536130487144304,2.621060664254371,4.493636775733645,10,428
+Original controlled challenges,Jev,Excess decision change (pp),16.566381999400352,14.82718508618272,18.34455831713403,10,428
+Original controlled challenges,Decisions,Raw decision change (%),12.574226483165514,10.572595533999174,14.757384906207323,10,428
+Original controlled challenges,Decisions,Neutral decision change (%),2.2897567868800253,1.4068189037497016,3.2799304602630066,10,428
+Original controlled challenges,Decisions,Excess decision change (pp),10.284469696285486,8.631197591344135,12.065147666338547,10,428
+Original controlled challenges,LLM,Raw decision change (%),16.731740974353293,15.174298290634662,18.453869220361824,10,428
+Original controlled challenges,LLM,Neutral decision change (%),2.71451798361252,1.7819139318992618,3.767876027746554,10,428
+Original controlled challenges,LLM,Excess decision change (pp),14.017222990740766,12.865819252872317,15.268736057541156,10,428
+Original controlled challenges,Jev + LLM,Raw decision change (%),5.905537774121669,4.455069108044948,7.4602112311269435,10,428
+Original controlled challenges,Jev + LLM,Neutral decision change (%),2.5480443475057406,1.5725382395490781,3.652571785023376,10,428
+Original controlled challenges,Jev + LLM,Excess decision change (pp),3.357493426615929,2.372463768963593,4.437240376851077,10,428
+Original controlled challenges,Decisions + LLM,Raw decision change (%),3.3760790104792804,2.5302691120823044,4.334520339314973,10,428
+Original controlled challenges,Decisions + LLM,Neutral decision change (%),1.5582378463685451,1.0403850419872935,2.134283630328441,10,428
+Original controlled challenges,Decisions + LLM,Excess decision change (pp),1.817841164110736,1.05011763457423,2.669502649803552,10,428
+Additional controlled challenges,Jev,Raw decision change (%),47.20238095238094,45.56547619047618,48.84920634920635,3,160
+Additional controlled challenges,Jev,Neutral decision change (%),0.5555555555555556,0.04166666666666668,1.2638888888888886,3,160
+Additional controlled challenges,Jev,Excess decision change (pp),46.64682539682539,44.85114087301587,48.40277777777777,3,160
+Additional controlled challenges,Decisions,Raw decision change (%),35.28769841269841,34.48412698412698,36.1904761904762,3,160
+Additional controlled challenges,Decisions,Neutral decision change (%),1.6666666666666667,0.7083333333333334,2.7916666666666674,3,160
+Additional controlled challenges,Decisions,Excess decision change (pp),33.62103174603175,32.13888888888889,35.01587301587302,3,160
+Additional controlled challenges,LLM,Raw decision change (%),61.75595238095235,59.54365079365079,63.690476190476176,3,160
+Additional controlled challenges,LLM,Neutral decision change (%),2.930555555555555,1.6527777777777775,4.347222222222221,3,160
+Additional controlled challenges,LLM,Excess decision change (pp),58.82539682539681,55.92261904761904,61.41071428571428,3,160
+Additional controlled challenges,Jev + LLM,Raw decision change (%),4.2460317460317425,3.3234126984126973,5.277777777777776,3,160
+Additional controlled challenges,Jev + LLM,Neutral decision change (%),0.833333333333333,0.26388888888888884,1.5420138888888586,3,160
+Additional controlled challenges,Jev + LLM,Excess decision change (pp),3.41269841269841,2.4365079365079354,4.4424603174603154,3,160
+Additional controlled challenges,Decisions + LLM,Raw decision change (%),3.4821428571428563,2.331349206349206,4.791666666666666,3,160
+Additional controlled challenges,Decisions + LLM,Neutral decision change (%),2.2083333333333335,1.0000000000000002,3.6666666666666665,3,160
+Additional controlled challenges,Decisions + LLM,Excess decision change (pp),1.273809523809523,-0.3015873015873017,2.847222222222222,3,160
+AcuityBench additions,Jev,Raw decision change (%),42.104196861315,38.229484426102886,45.9886313209649,3,280
+AcuityBench additions,Jev,Neutral decision change (%),2.733492293546527,1.0250596100799474,4.77281341879888,3,280
+AcuityBench additions,Jev,Excess decision change (pp),39.37070456776848,35.41665665449186,43.32858847300159,3,280
+AcuityBench additions,Decisions,Raw decision change (%),33.458008010347996,29.68801852038286,37.26942574104171,3,280
+AcuityBench additions,Decisions,Neutral decision change (%),8.086321629498029,5.131142175884801,11.288601151730527,3,280
+AcuityBench additions,Decisions,Excess decision change (pp),25.37168638084997,21.44766097384136,29.26924146913371,3,280
+AcuityBench additions,LLM,Raw decision change (%),29.756923340657973,26.463671285011827,33.096789662408156,3,280
+AcuityBench additions,LLM,Neutral decision change (%),5.125298050399738,2.736533359190494,7.796611662683092,3,280
+AcuityBench additions,LLM,Excess decision change (pp),24.63162529025823,21.206453614821033,28.061839583332468,3,280
+AcuityBench additions,Jev + LLM,Raw decision change (%),22.25111817600947,18.863787286418365,25.77221904023065,3,280
+AcuityBench additions,Jev + LLM,Neutral decision change (%),4.10023844031979,2.0431380743423646,6.499498891753142,3,280
+AcuityBench additions,Jev + LLM,Excess decision change (pp),18.150879735689685,14.84635861042789,21.497887467405263,3,280
+AcuityBench additions,Decisions + LLM,Raw decision change (%),19.294380288933564,16.09488752471601,22.555315700833138,3,280
+AcuityBench additions,Decisions + LLM,Neutral decision change (%),7.402948556111397,4.529029521220185,10.544188981187885,3,280
+AcuityBench additions,Decisions + LLM,Excess decision change (pp),11.891431732822168,8.489456086986058,15.263756076273726,3,280
+Sen2Med additions,Jev,Raw decision change (%),49.21875,42.708333333333336,55.46875,3,64
+Sen2Med additions,Jev,Neutral decision change (%),4.6875,1.0416666666666667,9.375,3,64
+Sen2Med additions,Jev,Excess decision change (pp),44.53125,37.5,51.302083333333336,3,64
+Sen2Med additions,Decisions,Raw decision change (%),42.708333333333336,35.9375,49.739583333333336,3,64
+Sen2Med additions,Decisions,Neutral decision change (%),7.291666666666667,2.6041666666666665,13.020833333333334,3,64
+Sen2Med additions,Decisions,Excess decision change (pp),35.416666666666664,27.604166666666668,42.96875,3,64
+Sen2Med additions,LLM,Raw decision change (%),41.666666666666664,35.15625,48.177083333333336,3,64
+Sen2Med additions,LLM,Neutral decision change (%),3.6458333333333335,0.5208333333333334,7.8125,3,64
+Sen2Med additions,LLM,Excess decision change (pp),38.020833333333336,31.770833333333332,44.270833333333336,3,64
+Sen2Med additions,Jev + LLM,Raw decision change (%),28.90625,22.65625,35.15625,3,64
+Sen2Med additions,Jev + LLM,Neutral decision change (%),3.125,0.5208333333333334,6.770833333333333,3,64
+Sen2Med additions,Jev + LLM,Excess decision change (pp),25.78125,19.010416666666668,32.552083333333336,3,64
+Sen2Med additions,Decisions + LLM,Raw decision change (%),26.302083333333332,19.010416666666668,34.114583333333336,3,64
+Sen2Med additions,Decisions + LLM,Neutral decision change (%),7.8125,2.6041666666666665,14.0625,3,64
+Sen2Med additions,Decisions + LLM,Excess decision change (pp),18.489583333333332,10.9375,26.041666666666668,3,64
+AcuityBench matched-label sensitivity,Jev,Raw decision change (%),42.09328782707622,38.25663850594185,45.94748858447488,3,282
+AcuityBench matched-label sensitivity,Jev,Neutral decision change (%),3.071672354948806,1.4545206465982654,4.983282431963934,3,282
+AcuityBench matched-label sensitivity,Jev,Excess decision change (pp),39.021615472127415,35.14868309009249,42.97531856131484,3,282
+AcuityBench matched-label sensitivity,Decisions,Raw decision change (%),33.44709897610921,29.722096825209192,37.291504861672735,3,282
+AcuityBench matched-label sensitivity,Decisions,Neutral decision change (%),7.736063708759954,5.138672059085996,10.559148731331609,3,282
+AcuityBench matched-label sensitivity,Decisions,Excess decision change (pp),25.711035267349263,22.003099211443242,29.38800991721246,3,282
+AcuityBench matched-label sensitivity,LLM,Raw decision change (%),29.74971558589306,26.45423785288837,33.116521074157205,3,282
+AcuityBench matched-label sensitivity,LLM,Neutral decision change (%),5.46075085324232,3.279950280217306,7.901485787623374,3,282
+AcuityBench matched-label sensitivity,LLM,Excess decision change (pp),24.28896473265074,20.986785445833622,27.628176625531033,3,282
+AcuityBench matched-label sensitivity,Jev + LLM,Raw decision change (%),22.241183162684866,18.861440245394906,25.684056213616024,3,282
+AcuityBench matched-label sensitivity,Jev + LLM,Neutral decision change (%),4.6643913538111486,2.554365255110617,7.059162818961171,3,282
+AcuityBench matched-label sensitivity,Jev + LLM,Excess decision change (pp),17.576791808873722,14.30226611067239,20.89555063216502,3,282
+AcuityBench matched-label sensitivity,Decisions + LLM,Raw decision change (%),19.283276450511945,16.139101480600843,22.6676447368968,3,282
+AcuityBench matched-label sensitivity,Decisions + LLM,Neutral decision change (%),7.622298065984073,5.077485204956956,10.443242088298726,3,282
+AcuityBench matched-label sensitivity,Decisions + LLM,Excess decision change (pp),11.660978384527873,8.503394178866666,14.860365351355592,3,282
